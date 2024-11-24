@@ -30,7 +30,7 @@ const Content: React.FC = () => {
         </div>
         <div className="content-right">
           <div className="image-container">
-            <img src="./images/Edison-English.png" alt="ICG Gaming Platform Preview" loading="lazy" />
+            <img src="./images/Edison-english.png" alt="ICG Gaming Platform Preview" loading="lazy" />
           </div>
         </div>
       </div>
